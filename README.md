@@ -119,4 +119,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-For any inquiries, please contact [divyankarshah1602@gmail.com].
+For any inquiries, please contact [karthikmedagam@gmail.com].
